@@ -1,6 +1,5 @@
 public class Research {
     private Tree tree;
-    private Human people;
 
     public Research(Tree tree) {
         this.tree = tree;
